@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="country_name">%1$s</string>
+    <string name="country_language">LANGUAGE: %1$s</string>
+    <string name="country_capital">CAPITAL: %1$s</string>
+    <string name="country_area">AREA: %1$s</string>
+    <string name="languages_name_traduction">View Info</string>
+    <string name="language">View Info</string>
+    <string name="view_info">View Info</string>
+    <string name="language_name_official">OFFICIAL NAME: %1$s</string>
+    <string name="language_name_common">COMMON NAME: %1$s</string>
+    <string name="country_region">REGION: %1$s</string>
+    <string name="country_coordinates">COORDINATES: LAT: %1$S, LONG: %2$S</string>
+</resources>
